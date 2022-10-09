@@ -4,3 +4,6 @@ def add(a, b):
 
 def substact(a, b):
 	return a-b
+
+def multipy(a, b):
+	return a * b
